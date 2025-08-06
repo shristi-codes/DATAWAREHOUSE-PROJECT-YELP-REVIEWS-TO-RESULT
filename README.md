@@ -44,6 +44,8 @@ We used three major JSON files from the [Yelp Open Dataset](https://business.yel
    - Loaded into Snowflake from GCP staging
    - Snowflake to Python (Matplotlibrary) for visualization
 
+![ETL Pipeline](ETL%20Pipeline.png)
+
 ## 📐 Dimensional Modeling
 
 Designed a **fact constellation schema** in Snowflake:
