@@ -51,7 +51,7 @@ Designed a **fact constellation schema** in Snowflake:
 - 📁 **Fact Tables:** `fact_reviews`, `fact_industry`
 - 🧱 **Dimension Tables:** `dim_date`, `dim_business`, `dim_industry`, `dim_sentiment`
 
-![ER Diagram](docs/ER_Diagram.png)
+![ER Diagram](ER%20diagram.png)
 
 ## 📈 Key Insights
 
